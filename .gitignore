@@ -1,0 +1,20 @@
+# .NET specific
+bin/
+obj/
+
+# Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# ASP.NET Routing
+appsettings.json
+
+# Other files
+*.log
